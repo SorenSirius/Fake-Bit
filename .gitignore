@@ -1,0 +1,21 @@
+# Build outputs
+Debug/
+Release/
+CortexM*/
+ARM_GCC*/
+*.elf
+*.hex
+*.o
+*.d
+*.lst
+*.log
+
+# Temp / cache
+codegentemp/
+*.tmp
+*.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
